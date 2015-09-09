@@ -1,5 +1,5 @@
 # ebook about the CERN stack
-####couchabse, express, react and nodejs stack
+####couchbase, express, react and nodejs stack
 
 chapters list:
 
