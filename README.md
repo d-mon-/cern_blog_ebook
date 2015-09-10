@@ -1,36 +1,42 @@
 # ebook about the CERN stack
 ####couchbase, express, react and nodejs stack
 
+> I'm currently working on the introduction
+
 chapters list:
 
 1 introduction
 
-1.1 npm, webpack & gulp
+2 npm, webpack & gulp
 
-1.2 scss
+3 scss
 
-2 helloworld with react & alt
+4 helloworld with react & alt
 
-3 menu with react router
+5 menu with react router
 
-4 entities & blog post
+6 entities & blog post
 
-4.1 tags and categories
+7 tags and categories
 
-5 authentication with jwt
+8 authentication with jwt
 
-6 users comments
+9 users comments
 
-7 from rest to websocket
+10 from rest to websocket
 
-8 text search with elasticSearch
+11 text search with elasticSearch
 
-9 administration dashboard
+12 administration dashboard
 
-10 first step with TDD with react
+13 Seach Engine Optimization
 
-11 understanding profiling
+14 first step in TDD with react
 
-12 going further
+15 understanding profiling
 
-currently working on the introduction
+16 putting your app in production
+
+17 going further
+
+
